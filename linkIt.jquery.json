@@ -1,0 +1,35 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple jQuery plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Jyotsna Singh",
+        "url": "https://jyotsnasingh.com"
+    },
+    "maintainers": [
+        {
+            "name": "Jyotsna Singh",
+            "email": "jyotsna_singh94@yahoo.co.in",
+            "url": "http://jyotsnasingh.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Jyotsna-Singh/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+   
+    "homepage": "https://github.com/Jyotsna-Singh/jquery.linkIt",
+    "docs": "https://github.com/Jyotsna-Singh/jquery.linkIt",
+    
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
