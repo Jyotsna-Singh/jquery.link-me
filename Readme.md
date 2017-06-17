@@ -6,7 +6,7 @@
 1.0.0
 
 ## Usage
-    $('span').linkIt({
+    $('span').linkme({
 			href: 'http://jyotsnasingh.com',
 			text: 'Click Me',
 			target : '_blank'
