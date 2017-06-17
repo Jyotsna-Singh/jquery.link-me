@@ -3,7 +3,13 @@
 **Link-me** is a simple jQuery plugin to attach links to elements
 
 ## Version
-1.0.0
+2.0.0
+
+## NPM
+[https://www.npmjs.com/package/link-me](https://www.npmjs.com/package/link-me)
+
+## Installation
+    npm install link-me
 
 ## Usage
     $('span').linkme({
