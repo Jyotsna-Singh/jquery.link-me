@@ -1,19 +1,19 @@
-#LinkIt jQuery Plugin#
+# Link-me jQuery Plugin
 
-**LinkIt** is a simple jQuery plugin to attach links to elements
+**Link-me** is a simple jQuery plugin to attach links to elements
 
-##Version##
-0.2.0
+## Version
+1.0.0
 
-##Usage##
+## Usage
     $('span').linkIt({
 			href: 'http://jyotsnasingh.com',
 			text: 'Click Me',
 			target : '_blank'
 		});
 
-##Vendors##
+## Vendors
 jQuery - [http://jquery.com](http://jquery.com)
 
-##License##
+## License
 MIT License

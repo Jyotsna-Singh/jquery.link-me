@@ -7,7 +7,7 @@
 
 (function($){
 	
-	$.fn.linkIt = function(options){
+	$.fn.linkme = function(options){
 		//Default Settings
 		var settings = $.extend({
 			href: null,
